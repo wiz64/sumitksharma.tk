@@ -5,3 +5,7 @@
 #### # You can modify this for your own site ✅
 ### Please do provide a backlink :stuck_out_tongue:
 ##### NOTE-** ❌⚠You cannot claim my site/template as your own and is protected by copyright law, Under MIT License.✅🆓
+# FEATURES
+##### 1) CLEAN CODE ♻
+##### 2) Images🌄📷 Optimised by IMGbot💯
+##### 3) Modern Elegant Design
